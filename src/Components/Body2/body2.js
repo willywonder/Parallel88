@@ -27,6 +27,18 @@ const Body2 = () => {
             <Image src="/bottom.svg" alt="image" width="160" height="17" />
           </div>
         </div>
+
+        <div className="line">
+          <Image src="/line.png" alt="image" width="500" height="4" />
+        </div>
+        <div className="txt2">
+          We believe that these principles have the power to transform
+          industries, create new opportunities, and help to build a more
+          equitable and sustainable world.
+        </div>
+      </div>
+      <div className="p88image">
+        <Image src="/p88.png" alt="image" width="1192" height="795" />
       </div>
     </div>
   );
