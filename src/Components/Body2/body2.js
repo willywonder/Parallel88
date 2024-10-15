@@ -38,7 +38,7 @@ const Body2 = () => {
         </div>
       </div>
       <div className="p88image">
-        <Image src="/p88.png" alt="image" width="1192" height="795" />
+        <Image src="/p88.png" alt="image" width="1292" height="795" />
       </div>
     </div>
   );

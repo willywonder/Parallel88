@@ -2,6 +2,7 @@ import Image from "next/image";
 import "./home.css";
 import React from "react";
 import Body2 from "@/Components/Body2/body2";
+import Body3 from "@/Components/Body3/numbers";
 export default function Home() {
   const cardData = [
     { src: '/image1.svg', alt: 'image1', width: 98, height: 68, text: 'Joint Venture' },
@@ -47,6 +48,7 @@ export default function Home() {
         </div>
       </div>
       <Body2/>
+      <Body3/>
 
     </div>
   );
